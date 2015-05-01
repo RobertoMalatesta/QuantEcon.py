@@ -95,7 +95,6 @@ CLASSIFIERS = [
 setup(name='quantecon',
       packages=['quantecon', 
                 'quantecon.models',
-                'quantecon.models.solow', 
                 'quantecon.tests',
                 ],
       version=VERSION,
